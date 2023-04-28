@@ -15,7 +15,7 @@ Destinee Pruden: https://github.com/DPRUDEN25/Tableau-Project-Movies
 
 Sevastian Guerrero: https://github.com/sevasguerrero/Top-250-Movies-Analysis-
 
-Saahil Bapat: 
+Saahil Bapat:  https://github.com/saahil-bapat/TabelauProject
 
 ![](https://github.com/sevasguerrero/Top-250-Movies-Analysis-/blob/430507ada5ef7ae032a87725631be3d72c1c6a56/giphy.gif)
 
@@ -47,14 +47,14 @@ Analysis & Conclusion:\
 ## Question 2:
 ## Which production studios generated high box office numbers based on the top 250 movies?
 
-Importance of Question:
-&emsp; 
+Importance of Question:\
+&emsp;Question two helps visualize the top production studios by box office numbers. By looking at this visualization, actors or producers may want to see what studio will make them the most money. Usually the production studios that make the most money have the best equipment and have the money to hire staff.  
 
-Manipulations:
-&emsp;
+Manipulations:\
+&emsp;The data set is a bar chart that includes the production studio and the box office data which depicts the revenue that the production studio makes total from the movies produced. The SUM(Box Office) includes the total revenue from sales of the movies that made it in the top 250. Box Office was also filtered by between $300 million to $1 billion in order to leave out any null values and show the top few production studios that made the most sales. 
 
-Analysis & Conclusion:
-&emsp;
+Analysis & Conclusion:\
+&emsp;From this visualization, we can see that Walt Disney Pictures makes the most money by a landslide making over $2500 million while the rest are under $1000 million. Ultimately, producers will have better opportunities to increase their box office revenue if they pick Walt Disney Pictures.
 
 
 
@@ -68,7 +68,8 @@ Importance of Question:\
 &emsp;This question helps understand which genre or mix of genres receives the highest average vote in the dataset. This visual aid can help producers or writers plan out the overall theme of the movie by first deciding on a genre(s) that will probably lead to higher popularity. This graph will save producers/writers resources and will enhance their decision to create a more successful movie overall.
  
 Manipulations: \
-&emsp;The data included in this graph are the name of the genres and the average ratings for each genre within the top 250 movies data set. The reason the rating is being measured as an average instead of as a median is due to these very specific genres only having a small count of movies. This smaller count is better represented as an average. The graph shown is  filtered to only show genres in which there are at least five movies voted on. 
+&emsp;The data included in this graph are the name of the genres and the average ratings for each genre within the top 250 movies data set. The reason the rating is being measured as an average instead of as a median is due to these very specific genres only having a small count of movies. This smaller count is better represented as an average. The graph shown is  filtered to only show genres in which there are more than five movies voted on. 
+
 
 Analysis & Conclusion:\
 &emsp;Overall, the box and whisker plot helped demonstrate how the “Action, Adventure, Fantasy” genre has the least spread and highest average in votes resulting in it being the most popular genre. This indicates that if producers want to make a successful movie they would increase their chances by filming an “Action, Adventure, Fantasy” movie.
