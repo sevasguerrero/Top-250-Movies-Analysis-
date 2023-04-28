@@ -53,7 +53,7 @@ Importance of Question:
 Manipulations:
 &emsp;
 
-Conclusion/Analysis:
+Analysis & Conclusion:
 &emsp;
 
 
