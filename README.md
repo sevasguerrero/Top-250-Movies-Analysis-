@@ -5,7 +5,7 @@ Team Name: ns_21482_2
 
 				  
 				  
-![](https://giphy.com/gifs/dicaprio-draw-serial-8Iv5lqKwKsZ2g/fullscreen)
+
 				  
 Ryan Maguire:https://github.com/rmaguire2020/Tableau_Project 
 
@@ -17,8 +17,11 @@ Sevastian Guerrero: https://github.com/sevasguerrero/Top-250-Movies-Analysis-
 
 Saahil Bapat: 
 
+![](https://github.com/sevasguerrero/Top-250-Movies-Analysis-/blob/430507ada5ef7ae032a87725631be3d72c1c6a56/giphy.gif)
 
 # IMDb Top 250 Movies
+
+
 
 &emsp;The “IMDb Top 250 Movies” dataset was obtained from kaggle.com but originally sourced from IMDb.com/chart/top/. The dataset is made up of 23 columns, all of which represent a unique attribute about the movie being described by the row, such as the “Title,” “Year,”  “Director,” etc. For our instances, however, the focus will mostly be on the “Title”, “Actor,” “Genre,” “IMDb Votes”, “IMDb Rating,” “IMDb Votes,” and “Box Office” columns.  The “Title,”  “Actor,” and “Genre” data are all of the type string as the data is composed of words and names, while the “IMDb Rating,” “IMDb Votes,” and “Box Office” data is of type number. This is because the ratings are on a scale of 1-10 and allow for non-whole numbers, votes are counted individually based on IMDb users, and Box Office amount is usually a movie’s revenue (whole number) in the millions.\
 &emsp;It is of note that the dataset does contain some null values for certain movies such as a missing “Box Office” amount or a lack of “Website” for the movie, so for our analysis, the specific movies that have this null data will be excluded.
