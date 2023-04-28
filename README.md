@@ -44,7 +44,7 @@ Analysis & Conclusion:\
 
 ![alt text](https://github.com/sevasguerrero/Top-250-Movies-Analysis-/blob/7e9efd0f10282bf3306578c7192fce05f6776187/Screen%20Shot%202023-04-27%20at%2011.24.52%20PM.png)
 
-## Question 2
+## Question 2:
 ## Which production studios generated high box office numbers based on the top 250 movies?
 
 Importance of Question:
@@ -61,7 +61,7 @@ Conclusion/Analysis:
 ![alt text](https://github.com/sevasguerrero/Top-250-Movies-Analysis-/blob/9bcb61c1c9f79993271cb3ac1ba42e2df1f2e700/Screen%20Shot%202023-04-27%20at%2011.25.19%20PM.png)
 
 
-## Question 3
+## Question 3:
 
 ## Among the genres for the top 250 movies, which genres are the most preferred based on the average IMDB votes?
 Importance of Question:\
